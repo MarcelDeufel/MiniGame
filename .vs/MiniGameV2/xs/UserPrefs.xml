@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{8DB9FDDC-0D10-C7E6-DE17-10829396A8A3}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/HitBoxController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/GoodCandyController.cs" Line="19" Column="6" />
+      <File FileName="Assets/Scripts/HitBoxController.cs" Line="53" Column="82" />
+      <File FileName="Assets/Scripts/CandyController.cs" Line="33" Column="5" />
+      <File FileName="Assets/Scripts/SpawnScript.cs" Line="63" Column="32" />
+      <File FileName="Assets/Scripts/BadCandyController.cs" Line="17" Column="6" />
+      <File FileName="Assets/Scripts/AudioManager.cs" Line="25" Column="1" />
+      <File FileName="Assets/Scripts/Sound.cs" Line="17" Column="1" />
+      <File FileName="Assets/Scripts/ScoreSceneController.cs" Line="58" Column="42" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MiniGameV2" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="HitBoxController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
